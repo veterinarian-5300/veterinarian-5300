@@ -6,14 +6,9 @@ industry.
 
 <h2 align="center">About me</h2>
 
-<img align="right" width=726px height=923px src="https://user-images.githubusercontent.com/55941110/135020958-8acdcfa9-a3e9-498c-b9e1-d5617671d215.PNG" />
-
-```golang
-```
 <img width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h2 align="center">Contact</h2>
-
 <p align="center">
   <a href="https://www.instagram.com/anmolarora_kind/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Instagram@anmolarora_kind" height="30" width="30">
@@ -31,6 +26,7 @@ industry.
     <img src="https://user-images.githubusercontent.com/55941110/135037780-ddf49ee0-2089-4925-b2c4-54592474b3b0.png" height="60" width="60">
   </a>
 </p>
+<img align="right" width=726px height=923px src="https://user-images.githubusercontent.com/55941110/135020958-8acdcfa9-a3e9-498c-b9e1-d5617671d215.PNG" />
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2 align="left">Github stats </h2>
 
