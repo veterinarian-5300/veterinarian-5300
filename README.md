@@ -6,9 +6,11 @@ industry.
 
 <h2 align="center">About me</h2>
 
-```golang
+<img align="right" width=726px height=923px src="https://user-images.githubusercontent.com/55941110/135020958-8acdcfa9-a3e9-498c-b9e1-d5617671d215.PNG" />
 
+```golang
 ```
+<img width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h2 align="center">Contact</h2>
 
@@ -25,20 +27,14 @@ industry.
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="anmolarora5300@gmail.com" height="30" width="30">
   </a>
 </p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 align="left">Github stats </h2>
 
-<h2 align="center">My stack </h2>
+[![Anmol's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=veterinarian-5300&theme=tokyonight)]() 
 
-
-<h2 align="center">Github stats </h2>
-
-<h4 align="center">Visitor's count </h4>
-
-<h4 align="center">Top langs</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=veterinarian-5300&show_icons=true&theme=synthwave" alt="veterinarian-5300 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=veterinarian-5300&theme=tokyonight" alt="veterinarian-5300 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veterinarian-5300&langs_count=10&theme=tokyonight&layout=compact" alt="veterinarian-5300 :: Top Langs" /></p>
+<h2 aligh="center"> Lets Go on a trip </h2>
+<p align="right"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
