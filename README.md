@@ -8,12 +8,14 @@ industry.
 
 <img align="right" width=726px height=923px src="https://user-images.githubusercontent.com/55941110/135020958-8acdcfa9-a3e9-498c-b9e1-d5617671d215.PNG" />
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2 align="center">Contact</h2>
 
-<img width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 
 <p align="center">
+  
+  <img align="left" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   <a href="https://www.instagram.com/anmolarora_kind/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Instagram@anmolarora_kind" height="30" width="30">
   </a> 
@@ -30,6 +32,8 @@ industry.
     <img src="https://user-images.githubusercontent.com/55941110/135037780-ddf49ee0-2089-4925-b2c4-54592474b3b0.png" height="60" width="60">
   </a>
 </p>
+
+<br><br>
 <h2 align="left">Github stats </h2>
 
 [![Anmol's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=veterinarian-5300&theme=tokyonight)]() 
