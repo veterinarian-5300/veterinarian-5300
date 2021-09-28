@@ -8,7 +8,7 @@ industry.
 <p align="center">
 <img  width=726px height=923px src="https://user-images.githubusercontent.com/55941110/135020958-8acdcfa9-a3e9-498c-b9e1-d5617671d215.PNG" />
 </p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
 <h2 align="center">Contact</h2>
 
 
@@ -44,10 +44,12 @@ industry.
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 <h5> My Projects </h5>  
+<p float="left">
 <a href="https://riddlen.netlify.app/">
-    <img align="left" src="https://user-images.githubusercontent.com/55941110/135035295-d9e5f98a-df2b-4230-bc29-6ba89446278c.png" height="300"></a>
+    <img align="left" src="https://user-images.githubusercontent.com/55941110/135035295-d9e5f98a-df2b-4230-bc29-6ba89446278c.png" height="300"></a></p>
+<p float="right">
 <a  href="https://festive-shirley-a1c896.netlify.app/">
-    <img align="right" src="https://user-images.githubusercontent.com/55941110/135035297-ebb79d90-40a5-413c-9119-4719a2baf769.png" height="300"></a>
+    <img align="right" src="https://user-images.githubusercontent.com/55941110/135035297-ebb79d90-40a5-413c-9119-4719a2baf769.png" height="300"></a></p>
 <p align="center"><br> <br> <br> <br><br><br><br><br><br><br><br><br><br><br><br>
 <a href="https://nostalgic-saha-aad216.netlify.app/">
     <img  src="https://user-images.githubusercontent.com/55941110/135035371-daed1b04-256e-4a84-8d61-f7d4fb321846.png" height="300"></a>
