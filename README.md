@@ -42,13 +42,11 @@ industry.
 
 <h5> My Projects </h5>  
 <a href="https://riddlen.netlify.app/">
-    <img align="left" src="https://user-images.githubusercontent.com/55941110/135035295-d9e5f98a-df2b-4230-bc29-6ba89446278c.png" ></a>
+    <img src="https://user-images.githubusercontent.com/55941110/135035295-d9e5f98a-df2b-4230-bc29-6ba89446278c.png" width="60%"></a>
 <a  href="https://festive-shirley-a1c896.netlify.app/">
-    <img align="right" src="https://user-images.githubusercontent.com/55941110/135035297-ebb79d90-40a5-413c-9119-4719a2baf769.png"></a>
-<p align="center"><br> <br> <br> <br><br><br><br><br><br><br><br><br><br><br><br>
+    <img src="https://user-images.githubusercontent.com/55941110/135035297-ebb79d90-40a5-413c-9119-4719a2baf769.png" width="30%"></a><br>
 <a href="https://nostalgic-saha-aad216.netlify.app/">
     <img  src="https://user-images.githubusercontent.com/55941110/135035371-daed1b04-256e-4a84-8d61-f7d4fb321846.png" height="300"></a>
-</p>
 
 
 
