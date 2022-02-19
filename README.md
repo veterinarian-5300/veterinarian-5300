@@ -6,7 +6,7 @@ industry.
 
 <h2 align="left">About me</h2>
 <p align="center">
-<img  width=726px height=923px src="https://user-images.githubusercontent.com/55941110/135020958-8acdcfa9-a3e9-498c-b9e1-d5617671d215.PNG" />
+<img  width=726px height=923px src="https://user-images.githubusercontent.com/55941110/154782367-368310ef-fd55-48c4-8c00-b94e0210ef2b.png" />
 </p>
 <br>
 <h2 align="left">Contact</h2>
