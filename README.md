@@ -1,8 +1,8 @@
-<h1 style="color:#ff6600"> Anmol Arora </h1>
-<h5 > Enthusiastic programmer eager to contribute to team projects through problem solving skills, attention to detail and 
-reliable organizational skills. Clear understanding of flexibility of work. Motivated to learn, grow and excel in 
-industry.
-  <a href="https://anmolaroraji.netlify.app/" target='blank'> Visit my minimalistic Portfolio Website XD </a>
+<h1 style="color:#b1c95b"> Anmol Arora </h1>
+<h5 style="color:#eebfc7"> Welcome to the most friendly community of developers. I am a veterinarian, to this developer community. I am motivated to produce great codes and be versatile with my skills to support it. Problem solving, hardware knowledge, and software development are my major persuits. I have excelled in providing holistic solutions that meet clients' core needs. Skilled in understanding business 
+operations and fostering meaningful connections.
+<br>
+  <a href="https://www.theprad.com/" target='blank'> Check out the cool dark mode switch on my portfolio. Click theprad.com</a>
 </h5>
 
 <h2 align="left">About me</h2>
