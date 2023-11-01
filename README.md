@@ -30,10 +30,8 @@ Check out the cool dark mode switch on my portfolio.
 <br>
 <h2 align="left">Contact</h2>
 <p align="center">
-  <a href="https://www.instagram.com/anmolarora_kind/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Instagram@anmolarora_kind" height="30" width="30">
-  </a> 
-  <a href="https://www.linkedin.com/in/anmol-arora-337860143">
+  
+  <a href="https://www.linkedin.com/in/anmolarora5300/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile @ Anmol Arora" height="30" width="30">
   </a>
   <a href="mailto:anmolaroa5300@gmail.com">
